@@ -1,0 +1,97 @@
+// Trenchfoot Soldier
+
+player/trenchfootsoldier/pain1 "sounds/trenchfootsoldier/Trenchfoot_Pain1.wav"
+player/trenchfootsoldier/pain2 "sounds/trenchfootsoldier/Trenchfoot_Pain2.wav"
+
+$random player/trenchfootsoldier/pain
+{
+	player/trenchfootsoldier/pain1 player/trenchfootsoldier/pain2
+}
+
+player/trenchfootsoldier/death1 "sounds/trenchfootsoldier/Trenchfoot_Death1.wav"
+player/trenchfootsoldier/death2 "sounds/trenchfootsoldier/Trenchfoot_Death2.wav"
+player/trenchfootsoldier/death3 "sounds/trenchfootsoldier/Trenchfoot_Death3.wav"
+
+$random player/trenchfootsoldier/death
+{
+	player/trenchfootsoldier/death1 player/trenchfootsoldier/death2 player/trenchfootsoldier/death3
+}
+
+player/trenchfootsoldier/taunt1 "sounds/trenchfootsoldier/Trenchfoot_Taunt1.wav"
+player/trenchfootsoldier/taunt2 "sounds/trenchfootsoldier/Trenchfoot_Taunt2.wav"
+player/trenchfootsoldier/taunt3 "sounds/trenchfootsoldier/Trenchfoot_Taunt3.wav"
+player/trenchfootsoldier/taunt4 "sounds/trenchfootsoldier/Trenchfoot_Taunt4.wav"
+player/trenchfootsoldier/taunt5 "sounds/trenchfootsoldier/Trenchfoot_Taunt5.wav"
+
+$random player/trenchfootsoldier/taunt
+{
+	player/trenchfootsoldier/taunt1 player/trenchfootsoldier/taunt2 player/trenchfootsoldier/taunt3 player/trenchfootsoldier/taunt4 player/trenchfootsoldier/taunt5
+}
+
+//	Countrycide Guy
+
+$random player/countrycide/ccfootsteps{
+	player/countrycide/ccwoodstep1
+	player/countrycide/ccwoodstep2
+}
+
+$random player/countrycide/ccfootstepswet{
+	player/countrycide/ccwaterstep1
+	player/countrycide/ccwaterstep2
+}
+
+player/countrycide/ccwoodstep1 "Sounds/countrycide/Footsteps/CCMove_wood1.wav"
+player/countrycide/ccwoodstep2 "Sounds/countrycide/Footsteps/CCMove_wood2.wav"
+player/countrycide/ccwaterstep1 "Sounds/countrycide/Footsteps/CCMove_water1.wav"
+player/countrycide/ccwaterstep2 "Sounds/countrycide/Footsteps/CCMove_water2.wav"
+
+$volume player/countrycide/ccfootsteps 0.5
+$volume player/countrycide/ccfootstepswet 0.5
+
+player/countrycide/pain1	"sounds/countrycide/Countrycideguy_pain1.wav"
+player/countrycide/pain2	"sounds/countrycide/Countrycideguy_pain2.wav"
+player/countrycide/pain3	"sounds/countrycide/Countrycideguy_pain3.wav"
+player/countrycide/pain4	"sounds/countrycide/Countrycideguy_pain4.wav"
+player/countrycide/pain5	"sounds/countrycide/Countrycideguy_pain5.wav"
+player/countrycide/pain6	"sounds/countrycide/Countrycideguy_pain6.wav"
+player/countrycide/pain7	"sounds/countrycide/Countrycideguy_pain7.wav"
+
+$random player/countrycide/pain
+{
+	player/countrycide/pain1 player/countrycide/pain2 player/countrycide/pain3 player/countrycide/pain4 player/countrycide/pain5 player/countrycide/pain6 player/countrycide/pain7
+}
+
+player/countrycide/death1	"sounds/countrycide/Countrycideguy_death1.wav"
+player/countrycide/death2	"sounds/countrycide/Countrycideguy_death2.wav"
+player/countrycide/death3	"sounds/countrycide/Countrycideguy_death3.wav"
+
+$random player/countrycide/death
+{
+	player/countrycide/death1 player/countrycide/death2 player/countrycide/death3
+}
+
+player/countrycide/taunt1	"sounds/countrycide/Countrycideguy_taunt1.wav"
+player/countrycide/taunt2	"sounds/countrycide/Countrycideguy_taunt2.wav"
+player/countrycide/taunt3	"sounds/countrycide/Countrycideguy_taunt3.wav"
+
+$volume player/countrycide/taunt1 1.5
+$volume player/countrycide/taunt2 1.5
+$volume player/countrycide/taunt3 1.5
+
+$random player/countrycide/taunt
+{
+	player/countrycide/taunt1 player/countrycide/taunt2 player/countrycide/taunt3
+}
+
+//	Massmouth
+
+player/massmouthv1/pain "sounds/massmouth/Massmouth_Pain.wav"
+player/massmouthv1/death "sounds/massmouth/Massmouth_Death.wav"
+player/massmouthv1/taunt "sounds/massmouth/Massmouth_Taunt.wav"
+
+// D64 Guy
+
+player/D64/pain "sounds/D64/D64_Pain.wav"
+player/D64/death "sounds/D64/D64_Death.wav"
+player/D64/xdeath "sounds/D64/D64_XDeath.wav"
+player/D64/taunt "sounds/D64/D64_Taunt.wav"

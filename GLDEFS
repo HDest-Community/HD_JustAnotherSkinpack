@@ -1,0 +1,166 @@
+
+brightmap sprite TOSSA1
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSA1.png"
+  disablefullbright
+}
+brightmap sprite TOSSA2A8
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSA2A8.png"
+  disablefullbright
+}
+brightmap sprite TOSSA3A7
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSA3A7.png"
+  disablefullbright
+}
+brightmap sprite TOSSA4A6
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSA4A6.png"
+  disablefullbright
+}
+brightmap sprite TOSSB1
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSB1.png"
+  disablefullbright
+}
+brightmap sprite TOSSB1
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSB1.png"
+  disablefullbright
+}
+brightmap sprite TOSSB2B8
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSB2B8.png"
+  disablefullbright
+}
+brightmap sprite TOSSB3B7
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSB3B7.png"
+  disablefullbright
+}
+brightmap sprite TOSSB4B6
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSB4B6.png"
+  disablefullbright
+}
+brightmap sprite TOSSC1
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSC1.png"
+  disablefullbright
+}
+brightmap sprite TOSSC2C8
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSC2C8.png"
+  disablefullbright
+}
+brightmap sprite TOSSC3C7
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSC3C7.png"
+  disablefullbright
+}
+brightmap sprite TOSSC4C6
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSC4C6.png"
+  disablefullbright
+}
+brightmap sprite TOSSD1
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSD1.png"
+  disablefullbright
+}
+brightmap sprite TOSSD2D8
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSD2D8.png"
+  disablefullbright
+}
+brightmap sprite TOSSD3D7
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSD3D7.png"
+  disablefullbright
+}
+brightmap sprite TOSSD4D6
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSD4D6.png"
+  disablefullbright
+}
+brightmap sprite TOSSE1
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSE1.png"
+  disablefullbright
+}
+brightmap sprite TOSSE2E8
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSE2E8.png"
+  disablefullbright
+}
+brightmap sprite TOSSE3E7
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSE3E7.png"
+  disablefullbright
+}
+brightmap sprite TOSSE4E6
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSE4E6.png"
+  disablefullbright
+}
+brightmap sprite TOSSF1
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSF1.png"
+  disablefullbright
+}
+brightmap sprite TOSSF2F8
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSF2F8.png"
+  disablefullbright
+}
+brightmap sprite TOSSF3F7
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSF3F7.png"
+  disablefullbright
+}
+brightmap sprite TOSSF4F6
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSF4F6.png"
+  disablefullbright
+}
+brightmap sprite TOSSG1
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSG1.png"
+  disablefullbright
+}
+brightmap sprite TOSSG2G8
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSG2G8.png"
+  disablefullbright
+}
+brightmap sprite TOSSG3G7
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSG3G7.png"
+  disablefullbright
+}
+brightmap sprite TOSSG4G6
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSG4G6.png"
+  disablefullbright
+}
+brightmap sprite TOSSG5
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSG5.png"
+  disablefullbright
+}
+brightmap sprite TOSSH0
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSH0.png"
+  disablefullbright
+}
+brightmap sprite TOSSI0
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSI0.png"
+  disablefullbright
+}
+brightmap sprite TOSSJ0
+{
+  map "sprites/TrenchfootSoldier_Brightmaps/TBMSJ0.png"
+  disablefullbright
+}
